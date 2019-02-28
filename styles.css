@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-image: url("https://wallpapercave.com/wp/wp3633244.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 120px;
+    border: solid black 3px;
+    
+}
+
+.box {
+    background-color: white;
+}
+
+.liras {
+    background-color: lightyellow;
+}
+
+.sanos {
+    background-color: lightblue;
+}
+
+.bluestrip {
+    background-color:blue;
+}
+
+.redstrip {
+    background-color:red;
+}
